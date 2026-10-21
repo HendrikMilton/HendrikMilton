@@ -1,13 +1,23 @@
 # Hendrik Milton
 
-Senior software engineer in Oslo. I build AI products end to end: agents, MCP servers, RAG with evals, and the UI around them.
+I build AI products end to end.
 
-- **Now:** building the AI agent (AWS Bedrock AgentCore) at [Artifik](https://artifik.no), a Norwegian public-procurement SaaS
-- **[mcp-aki](https://github.com/HendrikMilton/mcp-aki) + [mcp-rt](https://github.com/HendrikMilton/mcp-rt):** MCP server for claude.ai over Estonian data-protection law; Claude classifies court decisions out of 725k to find the data-protection ones
-- **[clipshot](https://github.com/HendrikMilton/clipshot):** paste screenshots into Claude Code / Codex on remote servers ([npm](https://www.npmjs.com/package/clipshot))
-- **[blokus-ai](https://github.com/HendrikMilton/blokus-ai):** Blokus assistant with board detection and AlphaZero-style move analysis
-- **[textualyze](https://github.com/HendrikMilton/textualyze):** subtitling SaaS I co-founded, 1,600+ users
-- **[biathlon-5-of-5](https://github.com/HendrikMilton/biathlon-5-of-5):** biathlon prediction game, 10k+ predictions while it ran
-- **[NM i AI 2026](https://github.com/HendrikMilton/nm-i-ai-2026)** (Norwegian AI Championship): 29th of 487 teams ([write-up](https://www.linkedin.com/feed/update/urn:li:activity:7442224007455821825/))
+Agents, MCP servers, RAG, evals, and the UI around them.
 
-TypeScript · React · Node/NestJS · Python · Postgres/MySQL · AWS · Terraform · Kubernetes
+Right now I'm building the AI agent at [Artifik](https://artifik.no), used by public buyers across Norway.
+
+On the side:
+
+[mcp-aki](https://github.com/HendrikMilton/mcp-aki): MCP server for claude.ai over Estonian data-protection law.
+
+[clipshot](https://github.com/HendrikMilton/clipshot): paste screenshots into Claude Code on remote servers.
+
+[blokus-ai](https://github.com/HendrikMilton/blokus-ai): Blokus assistant with board detection and AlphaZero-style move analysis.
+
+[textualyze](https://github.com/HendrikMilton/textualyze): subtitling SaaS I co-founded, 1,600+ users.
+
+[nm-i-ai-2026](https://github.com/HendrikMilton/nm-i-ai-2026): 29th of 487 teams at the Norwegian AI Championship.
+
+Off the keyboard: 2x ice swimming world champion.
+
+Oslo, Norway.
