@@ -8,6 +8,6 @@ Senior software engineer in Oslo. I build AI products end to end: agents, MCP se
 - **[blokus-ai](https://github.com/HendrikMilton/blokus-ai):** Blokus assistant with board detection and AlphaZero-style move analysis
 - **[textualyze](https://github.com/HendrikMilton/textualyze):** subtitling SaaS I co-founded, 1,600+ users
 - **[biathlon5of5.com](https://biathlon5of5.com):** biathlon prediction game, 10k+ predictions
-- **NM i AI 2026** (Norwegian AI Championship): 29th of 487 teams
+- **[NM i AI 2026](https://github.com/HendrikMilton/nm-i-ai-2026)** (Norwegian AI Championship): 29th of 487 teams
 
 TypeScript · React · Node/NestJS · Python · Postgres/MySQL · AWS · Terraform · Kubernetes
