@@ -1,8 +1,6 @@
 # Hendrik Milton
 
-I build AI products end to end.
-
-Agents, MCP servers, RAG, evals, and the UI around them.
+I build AI products end to end: agents, MCP servers, RAG, evals, and the UI around them.
 
 Right now I'm building the AI agent at [Artifik](https://artifik.no), used by public buyers across Norway.
 
