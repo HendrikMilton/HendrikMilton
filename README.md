@@ -18,6 +18,6 @@ On the side:
 
 [textualyze](https://github.com/HendrikMilton/textualyze): subtitling SaaS I co-founded, 1,600+ users.
 
-Also 2x ice swimming world champion.
+Also [2x ice swimming world champion](https://www.linkedin.com/feed/update/urn:li:activity:7335235909006544898/).
 
 Oslo, Norway.
