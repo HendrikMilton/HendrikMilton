@@ -10,13 +10,13 @@ On the side:
 
 [mcp-aki](https://github.com/HendrikMilton/mcp-aki): MCP server for claude.ai over Estonian data-protection law.
 
+[nm-i-ai-2026](https://github.com/HendrikMilton/nm-i-ai-2026): 29th of 487 teams at the Norwegian AI Championship.
+
 [clipshot](https://github.com/HendrikMilton/clipshot): paste screenshots into Claude Code on remote servers.
 
 [blokus-ai](https://github.com/HendrikMilton/blokus-ai): Blokus assistant with board detection and AlphaZero-style move analysis.
 
 [textualyze](https://github.com/HendrikMilton/textualyze): subtitling SaaS I co-founded, 1,600+ users.
-
-[nm-i-ai-2026](https://github.com/HendrikMilton/nm-i-ai-2026): 29th of 487 teams at the Norwegian AI Championship.
 
 Off the keyboard: 2x ice swimming world champion.
 
